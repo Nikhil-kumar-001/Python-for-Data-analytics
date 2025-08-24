@@ -4,10 +4,10 @@ Welcome to my first GitHub repository, Python for Data Analytics! This project i
 ## Repository Overview
 
 This repository contains simple, well-documented Python code files that demonstrate essential data analytics tasks, such as:
-    * Data Manipulation: Using Pandas for cleaning, filtering, and transforming datasets.
-    * Numerical Hawkins: Applying NumPy for numerical computations and data analysis.
-    * Data Visualization: Creating insightful plots and charts with Matplotlib and Seaborn.
-    * Exploratory Data Analysis: Basic examples of summarizing and exploring datasets.
+           * Data Manipulation: Using Pandas for cleaning, filtering, and transforming datasets.
+           * Numerical Hawkins: Applying NumPy for numerical computations and data analysis.
+           * Data Visualization: Creating insightful plots and charts with Matplotlib and Seaborn.
+           * Exploratory Data Analysis: Basic examples of summarizing and exploring datasets.
 Each script is designed to be easy to understand, with comments explaining the code's functionality, making it a great starting point for beginners in data analytics.
 
 ## Purpose
